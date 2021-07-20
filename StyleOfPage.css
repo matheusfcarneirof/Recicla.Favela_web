@@ -1,3 +1,15 @@
+/*cor extra: #80ced6*/
+body{
+    background-color: #d5f4e6 ;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
 /* formulário */
 form {
 margin: 0 auto;
